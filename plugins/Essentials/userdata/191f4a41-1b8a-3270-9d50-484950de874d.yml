@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699385664366
+  login: 1699385560313
+money: '0'
+last-account-name: RiskyPrihadi
+logoutlocation:
+  world: 1bb94e8d-6bf0-4b72-9047-0a20f8a53004
+  world-name: world
+  x: 1280.699999988079
+  y: 74.0
+  z: 73.30000001192093
+  yaw: 51.998924255371094
+  pitch: 24.940977096557617
