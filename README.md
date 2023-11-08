@@ -8,7 +8,7 @@ Just Having Fun with Friends
 
 =============================================
 
-## Bagian yang Harus dipindahkan ke MCserver:
+## Bagian yang Harus dipindahkan ke MCserver (Foldler Ini):
 - file whitelist.json
 - file usercache.json
 - file banned-players.json
